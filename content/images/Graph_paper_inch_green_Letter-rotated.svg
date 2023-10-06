@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="279.42001mm"
+   height="215.92mm"
+   viewBox="0 0 27942.002 21591.999"
+   preserveAspectRatio="xMidYMid"
+   fill-rule="evenodd"
+   clip-path="url(#presentation_clip_path)"
+   stroke-width="28.222"
+   stroke-linejoin="round"
+   xml:space="preserve"
+   id="svg2229"
+   sodipodi:docname="Graph_paper_inch_green_Letter-rotated.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview2231"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="0.73384895"
+   inkscape:cx="379.50589"
+   inkscape:cy="435.3757"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2229" />
+ <defs
+   class="ClipPathGroup"
+   id="defs1644">
+  <clipPath
+   id="presentation_clip_path"
+   clipPathUnits="userSpaceOnUse">
+   <rect
+   x="0"
+   y="0"
+   width="21592"
+   height="27942"
+   id="rect1641" />
+  </clipPath>
+ </defs>
+ <defs
+   class="TextShapeIndex"
+   id="defs1646">
+  
+ </defs>
+ <defs
+   class="EmbeddedBulletChars"
+   id="defs1675">
+  <g
+   id="bullet-char-template57356"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 580,1141 1163,571 580,0 -4,571 Z"
+   id="path1648" />
+  </g>
+  <g
+   id="bullet-char-template57354"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 8,1128 H 1137 V 0 H 8 Z"
+   id="path1651" />
+  </g>
+  <g
+   id="bullet-char-template10146"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 174,0 602,739 174,1481 1456,739 Z M 1358,739 309,1346 659,739 Z"
+   id="path1654" />
+  </g>
+  <g
+   id="bullet-char-template10132"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 2015,739 1276,0 H 717 l 543,543 H 174 v 393 h 1086 l -543,545 h 557 z"
+   id="path1657" />
+  </g>
+  <g
+   id="bullet-char-template10007"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="m 0,-2 c -7,16 -16,29 -25,39 l 381,530 c -94,256 -141,385 -141,387 0,25 13,38 40,38 9,0 21,-2 34,-5 21,4 42,12 65,25 l 27,-13 111,-251 280,301 64,-25 24,25 c 21,-10 41,-24 62,-43 C 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 c 0,-27 -21,-55 -63,-84 l 16,-20 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 c -22,-34 -53,-51 -92,-51 -42,0 -63,17 -64,51 -7,9 -10,24 -10,44 0,9 1,19 2,30 z"
+   id="path1660" />
+  </g>
+  <g
+   id="bullet-char-template10004"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 c 0,78 14,145 41,201 34,71 87,106 158,106 53,0 88,-31 106,-94 l 23,-176 c 8,-64 28,-97 59,-98 l 735,706 c 11,11 33,17 66,17 42,0 63,-15 63,-46 V 965 c 0,-36 -10,-64 -30,-84 L 442,47 C 390,-6 338,-33 285,-33 Z"
+   id="path1663" />
+  </g>
+  <g
+   id="bullet-char-template9679"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 c 0,181 53,324 160,431 106,107 249,161 430,161 179,0 323,-54 432,-161 108,-107 162,-251 162,-431 0,-180 -54,-324 -162,-431 C 1136,54 992,0 813,0 Z"
+   id="path1666" />
+  </g>
+  <g
+   id="bullet-char-template8226"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="m 346,457 c -73,0 -137,26 -191,78 -54,51 -81,114 -81,188 0,73 27,136 81,188 54,52 118,78 191,78 73,0 134,-26 185,-79 51,-51 77,-114 77,-187 0,-75 -25,-137 -76,-188 -50,-52 -112,-78 -186,-78 z"
+   id="path1669" />
+  </g>
+  <g
+   id="bullet-char-template8211"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M -4,459 H 1135 V 606 H -4 Z"
+   id="path1672" />
+  </g>
+ </defs>
+ <defs
+   class="TextEmbeddedBitmaps"
+   id="defs1677" />
+ <g
+   id="g1682">
+  <g
+   id="id2"
+   class="Master_Slide">
+   <g
+   id="bg-id2"
+   class="Background" />
+   <g
+   id="bo-id2"
+   class="BackgroundObjects" />
+  </g>
+ </g>
+ <g
+   class="SlideGroup"
+   id="g2227"
+   transform="rotate(-90,10796,10796.5)">
+  <g
+   id="g2225">
+   <g
+   id="id1"
+   class="Slide"
+   clip-path="url(#presentation_clip_path)">
+    <g
+   class="Page"
+   id="g2222">
+     <g
+   class="Group"
+   id="g2220">
+      <g
+   class="com.sun.star.drawing.RectangleShape"
+   id="g1687">
+       <g
+   id="id3">
+        <path
+   fill="#ffffff"
+   stroke="none"
+   d="M 10797,27942 H 1 V 1 h 21591 v 27941 z"
+   id="path1684" />
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.PolyLineShape"
+   id="g1728">
+       <g
+   id="id4">
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1902,26667 V 1267"
+   id="path1689" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 4440,26665 V 1265"
+   id="path1691" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 6980,26665 V 1265"
+   id="path1693" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 9520,26665 V 1265"
+   id="path1695" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 12060,26665 V 1265"
+   id="path1697" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 14600,26665 V 1265"
+   id="path1699" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 17140,26665 V 1265"
+   id="path1701" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 19680,26665 V 1265"
+   id="path1703" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,1265 H 19680"
+   id="path1705" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,3805 H 19680"
+   id="path1707" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,6345 H 19680"
+   id="path1709" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,8885 H 19680"
+   id="path1711" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,11425 H 19680"
+   id="path1713" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,13965 H 19680"
+   id="path1715" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,16505 H 19680"
+   id="path1717" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,19045 H 19680"
+   id="path1719" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,21585 H 19680"
+   id="path1721" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,24125 H 19680"
+   id="path1723" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="11"
+   d="M 1900,26665 H 19680"
+   id="path1725" />
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.PolyLineShape"
+   id="g1803">
+       <g
+   id="id5">
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,26665 V 1265"
+   id="path1730" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 3170,26665 V 1265"
+   id="path1732" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 4440,26665 V 1265"
+   id="path1734" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 5710,26665 V 1265"
+   id="path1736" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 6980,26665 V 1265"
+   id="path1738" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 8250,26665 V 1265"
+   id="path1740" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 9520,26665 V 1265"
+   id="path1742" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 10790,26665 V 1265"
+   id="path1744" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 12060,26665 V 1265"
+   id="path1746" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 13330,26665 V 1265"
+   id="path1748" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 14600,26665 V 1265"
+   id="path1750" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 15870,26665 V 1265"
+   id="path1752" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 17140,26665 V 1265"
+   id="path1754" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 18410,26665 V 1265"
+   id="path1756" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 19680,26665 V 1265"
+   id="path1758" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,1265 H 19680"
+   id="path1760" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,2535 H 19680"
+   id="path1762" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,3805 H 19680"
+   id="path1764" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,5075 H 19680"
+   id="path1766" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,6345 H 19680"
+   id="path1768" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,7615 H 19680"
+   id="path1770" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,8885 H 19680"
+   id="path1772" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,10155 H 19680"
+   id="path1774" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,11425 H 19680"
+   id="path1776" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,12695 H 19680"
+   id="path1778" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,13965 H 19680"
+   id="path1780" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,15235 H 19680"
+   id="path1782" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,16505 H 19680"
+   id="path1784" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,17775 H 19680"
+   id="path1786" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,19045 H 19680"
+   id="path1788" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,20315 H 19680"
+   id="path1790" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,21585 H 19680"
+   id="path1792" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,22855 H 19680"
+   id="path1794" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,24125 H 19680"
+   id="path1796" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,25395 H 19680"
+   id="path1798" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="7"
+   d="M 1900,26665 H 19680"
+   id="path1800" />
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.PolyLineShape"
+   id="g2218">
+       <g
+   id="id6">
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1902,26667 V 1267"
+   id="path1805" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 2112,26665 V 1265"
+   id="path1807" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 2323,26665 V 1265"
+   id="path1809" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 2535,26665 V 1265"
+   id="path1811" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 2747,26665 V 1265"
+   id="path1813" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 2958,26665 V 1265"
+   id="path1815" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 3170,26665 V 1265"
+   id="path1817" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 3382,26665 V 1265"
+   id="path1819" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 3593,26665 V 1265"
+   id="path1821" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 3805,26665 V 1265"
+   id="path1823" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 4017,26665 V 1265"
+   id="path1825" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 4228,26665 V 1265"
+   id="path1827" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 4440,26665 V 1265"
+   id="path1829" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 4652,26665 V 1265"
+   id="path1831" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 4863,26665 V 1265"
+   id="path1833" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 5075,26665 V 1265"
+   id="path1835" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 5287,26665 V 1265"
+   id="path1837" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 5498,26665 V 1265"
+   id="path1839" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 5710,26665 V 1265"
+   id="path1841" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 5922,26665 V 1265"
+   id="path1843" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 6133,26665 V 1265"
+   id="path1845" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 6345,26665 V 1265"
+   id="path1847" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 6558,26665 V 1265"
+   id="path1849" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 6768,26665 V 1265"
+   id="path1851" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 6980,26665 V 1265"
+   id="path1853" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 7192,26665 V 1265"
+   id="path1855" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 7403,26665 V 1265"
+   id="path1857" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 7615,26665 V 1265"
+   id="path1859" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 7827,26665 V 1265"
+   id="path1861" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 8038,26665 V 1265"
+   id="path1863" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 8250,26665 V 1265"
+   id="path1865" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 8462,26665 V 1265"
+   id="path1867" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 8673,26665 V 1265"
+   id="path1869" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 8885,26665 V 1265"
+   id="path1871" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 9097,26665 V 1265"
+   id="path1873" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 9308,26665 V 1265"
+   id="path1875" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 9520,26665 V 1265"
+   id="path1877" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 9732,26665 V 1265"
+   id="path1879" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 9943,26665 V 1265"
+   id="path1881" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 10155,26665 V 1265"
+   id="path1883" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 10367,26665 V 1265"
+   id="path1885" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 10578,26665 V 1265"
+   id="path1887" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 10790,26665 V 1265"
+   id="path1889" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 11003,26665 V 1265"
+   id="path1891" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 11213,26665 V 1265"
+   id="path1893" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 11425,26665 V 1265"
+   id="path1895" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 11637,26665 V 1265"
+   id="path1897" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 11848,26665 V 1265"
+   id="path1899" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 12060,26665 V 1265"
+   id="path1901" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 12273,26665 V 1265"
+   id="path1903" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 12483,26665 V 1265"
+   id="path1905" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 12695,26665 V 1265"
+   id="path1907" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 12907,26665 V 1265"
+   id="path1909" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 13118,26665 V 1265"
+   id="path1911" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 13330,26665 V 1265"
+   id="path1913" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 13542,26665 V 1265"
+   id="path1915" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 13753,26665 V 1265"
+   id="path1917" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 13965,26665 V 1265"
+   id="path1919" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 14177,26665 V 1265"
+   id="path1921" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 14388,26665 V 1265"
+   id="path1923" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 14600,26665 V 1265"
+   id="path1925" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 14812,26665 V 1265"
+   id="path1927" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 15023,26665 V 1265"
+   id="path1929" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 15235,26665 V 1265"
+   id="path1931" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 15447,26665 V 1265"
+   id="path1933" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 15658,26665 V 1265"
+   id="path1935" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 15870,26665 V 1265"
+   id="path1937" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 16082,26665 V 1265"
+   id="path1939" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 16293,26665 V 1265"
+   id="path1941" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 16505,26665 V 1265"
+   id="path1943" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 16717,26665 V 1265"
+   id="path1945" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 16928,26665 V 1265"
+   id="path1947" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 17140,26665 V 1265"
+   id="path1949" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 17352,26665 V 1265"
+   id="path1951" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 17563,26665 V 1265"
+   id="path1953" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 17775,26665 V 1265"
+   id="path1955" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 17987,26665 V 1265"
+   id="path1957" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 18198,26665 V 1265"
+   id="path1959" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 18410,26665 V 1265"
+   id="path1961" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 18622,26665 V 1265"
+   id="path1963" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 18833,26665 V 1265"
+   id="path1965" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 19045,26665 V 1265"
+   id="path1967" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 19257,26665 V 1265"
+   id="path1969" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 19468,26665 V 1265"
+   id="path1971" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 19680,26665 V 1265"
+   id="path1973" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,1265 H 19680"
+   id="path1975" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,1477 H 19680"
+   id="path1977" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,1689 H 19680"
+   id="path1979" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,1900 H 19680"
+   id="path1981" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,2112 H 19680"
+   id="path1983" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,2324 H 19680"
+   id="path1985" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,2535 H 19680"
+   id="path1987" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,2747 H 19680"
+   id="path1989" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,2959 H 19680"
+   id="path1991" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,3170 H 19680"
+   id="path1993" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,3382 H 19680"
+   id="path1995" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,3594 H 19680"
+   id="path1997" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,3805 H 19680"
+   id="path1999" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,4019 H 19680"
+   id="path2001" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,4229 H 19680"
+   id="path2003" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,4440 H 19680"
+   id="path2005" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,4652 H 19680"
+   id="path2007" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,4864 H 19680"
+   id="path2009" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,5075 H 19680"
+   id="path2011" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,5287 H 19680"
+   id="path2013" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,5499 H 19680"
+   id="path2015" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,5710 H 19680"
+   id="path2017" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,5922 H 19680"
+   id="path2019" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,6134 H 19680"
+   id="path2021" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,6345 H 19680"
+   id="path2023" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,6557 H 19680"
+   id="path2025" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,6769 H 19680"
+   id="path2027" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,6980 H 19680"
+   id="path2029" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,7192 H 19680"
+   id="path2031" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,7404 H 19680"
+   id="path2033" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,7615 H 19680"
+   id="path2035" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,7827 H 19680"
+   id="path2037" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,8039 H 19680"
+   id="path2039" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,8250 H 19680"
+   id="path2041" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,8462 H 19680"
+   id="path2043" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,8674 H 19680"
+   id="path2045" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,8885 H 19680"
+   id="path2047" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,9097 H 19680"
+   id="path2049" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,9309 H 19680"
+   id="path2051" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,9520 H 19680"
+   id="path2053" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,9732 H 19680"
+   id="path2055" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,9944 H 19680"
+   id="path2057" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,10155 H 19680"
+   id="path2059" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,10367 H 19680"
+   id="path2061" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,10579 H 19680"
+   id="path2063" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,10790 H 19680"
+   id="path2065" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,11002 H 19680"
+   id="path2067" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,11214 H 19680"
+   id="path2069" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,11425 H 19680"
+   id="path2071" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,11637 H 19680"
+   id="path2073" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,11849 H 19680"
+   id="path2075" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,12060 H 19680"
+   id="path2077" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,12272 H 19680"
+   id="path2079" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,12484 H 19680"
+   id="path2081" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,12695 H 19680"
+   id="path2083" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,12907 H 19680"
+   id="path2085" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,13119 H 19680"
+   id="path2087" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,13330 H 19680"
+   id="path2089" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,13542 H 19680"
+   id="path2091" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,13754 H 19680"
+   id="path2093" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,13965 H 19680"
+   id="path2095" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,14177 H 19680"
+   id="path2097" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,14389 H 19680"
+   id="path2099" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,14600 H 19680"
+   id="path2101" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,14812 H 19680"
+   id="path2103" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,15024 H 19680"
+   id="path2105" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,15235 H 19680"
+   id="path2107" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,15447 H 19680"
+   id="path2109" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,15659 H 19680"
+   id="path2111" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,15870 H 19680"
+   id="path2113" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,16082 H 19680"
+   id="path2115" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,16294 H 19680"
+   id="path2117" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,16505 H 19680"
+   id="path2119" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,16717 H 19680"
+   id="path2121" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,16929 H 19680"
+   id="path2123" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,17140 H 19680"
+   id="path2125" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,17354 H 19680"
+   id="path2127" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,17564 H 19680"
+   id="path2129" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,17775 H 19680"
+   id="path2131" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,17987 H 19680"
+   id="path2133" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,18199 H 19680"
+   id="path2135" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,18410 H 19680"
+   id="path2137" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,18622 H 19680"
+   id="path2139" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,18834 H 19680"
+   id="path2141" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,19045 H 19680"
+   id="path2143" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,19257 H 19680"
+   id="path2145" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,19469 H 19680"
+   id="path2147" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,19680 H 19680"
+   id="path2149" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,19894 H 19680"
+   id="path2151" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,20104 H 19680"
+   id="path2153" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,20315 H 19680"
+   id="path2155" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,20527 H 19680"
+   id="path2157" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,20739 H 19680"
+   id="path2159" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,20950 H 19680"
+   id="path2161" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,21162 H 19680"
+   id="path2163" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,21374 H 19680"
+   id="path2165" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,21585 H 19680"
+   id="path2167" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,21797 H 19680"
+   id="path2169" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,22009 H 19680"
+   id="path2171" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,22220 H 19680"
+   id="path2173" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,22432 H 19680"
+   id="path2175" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,22644 H 19680"
+   id="path2177" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,22855 H 19680"
+   id="path2179" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,23067 H 19680"
+   id="path2181" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,23279 H 19680"
+   id="path2183" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,23490 H 19680"
+   id="path2185" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,23702 H 19680"
+   id="path2187" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,23914 H 19680"
+   id="path2189" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,24125 H 19680"
+   id="path2191" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,24337 H 19680"
+   id="path2193" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,24549 H 19680"
+   id="path2195" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,24760 H 19680"
+   id="path2197" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,24972 H 19680"
+   id="path2199" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,25184 H 19680"
+   id="path2201" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,25395 H 19680"
+   id="path2203" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,25607 H 19680"
+   id="path2205" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,25819 H 19680"
+   id="path2207" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,26030 H 19680"
+   id="path2209" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,26242 H 19680"
+   id="path2211" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,26454 H 19680"
+   id="path2213" />
+        <path
+   fill="none"
+   stroke="#008000"
+   stroke-width="4"
+   d="M 1900,26665 H 19680"
+   id="path2215" />
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
