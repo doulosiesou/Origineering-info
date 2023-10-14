@@ -1,0 +1,227 @@
+/* rem and em do NOT depend on html font-size in media queries! Instead, 1rem = 1em = 16px */
+
+/*****************heading-primary*********/
+/* When calculating max-width for screen size use em units
+  1600px / 16px per em = 100*/
+/*****************************************/
+
+@media (max-width: 82em) {
+  /* 82em x 16px/em = 1312px */
+
+  .hero-description {
+    font-size: 1.8rem;
+  }
+
+  .btn,
+  .btn:link,
+  .btn:visited {
+    font-size: 1.6rem;
+    font-weight: 600;
+    padding: 1.2rem 2.4rem;
+    border-radius: 9px;
+  }
+
+  .heading-primary {
+    font-size: 3rem;
+  }
+
+  .heading-secondary {
+    font-size: 3rem;
+  }
+
+  .heading-tertiary {
+    font-size: 2rem;
+  }
+
+  .list-item {
+    font-size: 1.6rem;
+    padding-left: 1.2rem;
+  }
+
+  .container--slider {
+    width: auto;
+  }
+}
+
+@media (max-width: 69em) {
+  /* 69em x 16px/em = 1104px */
+
+  .hero-description {
+    font-size: 1.4rem;
+  }
+
+  .skills--software,
+  .skills--programming {
+    font-size: 2rem;
+  }
+
+  .education {
+    padding-top: 2.4rem;
+  }
+
+  .degrees-text,
+  .self-education-text,
+  .professional-certification-text {
+    font-size: 2rem;
+  }
+
+  .btn,
+  .btn:link,
+  .btn:visited {
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 1rem 1.8rem;
+    border-radius: 9px;
+  }
+
+  .nav__links {
+    gap: 2.4rem;
+  }
+
+  .nav__link:link,
+  .nav__link:visited {
+    font-size: 1.4rem;
+    transition: all 0.3s;
+  }
+
+  .nav__link--btn.btn--show-modal:link,
+  .nav__link--btn.btn--show-modal:visited {
+    padding: 0.8rem 1.8rem;
+    border-radius: 9px;
+    color: #fff;
+    background-color: #e67e22;
+  }
+
+  .heading-primary {
+    font-size: 2.4rem;
+  }
+
+  .heading-secondary {
+    font-size: 2rem;
+  }
+
+  .heading-tertiary {
+    font-size: 1.6rem;
+  }
+
+  .list-item {
+    font-size: 1.2rem;
+    padding-left: 1rem;
+  }
+
+  .container--slider {
+    width: auto;
+  }
+
+  .ld-img,
+  .utilities-img,
+  .structural-img {
+    width: 60%;
+  }
+
+  .utilities--text-box {
+    width: 80%;
+  }
+
+  .png-background {
+    display: none;
+  }
+
+  .edu-img {
+    width: 35%;
+  }
+}
+
+@media (max-width: 63em) {
+  /* 63em x 16px/em = 1008px */
+  .slide {
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 55em) {
+  /* 63em x 16px/em = 880px */
+  .slider {
+    justify-content: flex-start;
+  }
+
+  .slider {
+    width: 75rem;
+    height: 45rem;
+  }
+
+  .slide {
+    height: 37.5rem;
+  }
+
+  .utilities--text-box {
+    width: 100%;
+  }
+
+  .edu-img {
+    width: 30%;
+  }
+
+  .education-img-box {
+    margin-left: 5rem;
+  }
+}
+
+@media (max-width: 55em) {
+  /* 55em x 16px/em = 880 px */
+  .slider {
+    justify-content: flex-start;
+  }
+
+  .slider {
+    width: 75rem;
+    height: 45rem;
+  }
+
+  .slide {
+    height: 37.5rem;
+  }
+
+  .utilities--text-box {
+    width: 100%;
+  }
+
+  .edu-img {
+    width: 25%;
+  }
+
+  /* .education-img-box{
+    margin-left: 5rem;
+  } */
+}
+
+@media (max-width: 50em) {
+  /* 50em x 16px/em = 800px */
+
+  .section-hero {
+    height: 60rem;
+  }
+
+  .skills--software,
+  .skills--programming {
+    font-size: 2rem;
+  }
+
+  .section-education {
+    height: 40%;
+  }
+
+  .degrees-text,
+  .self-education-text,
+  .professional-certification-text {
+    font-size: 2rem;
+  }
+
+  .education-text-box {
+    margin-right: 3rem;
+  }
+
+  .edu-img {
+    width: 25%;
+  }
+}

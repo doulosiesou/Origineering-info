@@ -94,8 +94,7 @@ body {
 }
 
 .logo {
-  height: 100%;
-  /* width: 150%; */
+  width: 4rem;
 }
 
 /* STICKY HEADER */

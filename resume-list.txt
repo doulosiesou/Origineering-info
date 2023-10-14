@@ -1,0 +1,33 @@
+<div class="examples engineering-examples">
+              <h3 class="heading-tertiary heading-tertiary--examples">Engineering Examples</h3>
+              <ul>
+                <li class="list-item list--item-examples">
+                  Due Diligence Study for the Land Sale of Section 2 – Arizona State Land Department
+                </li>
+                <li class="list-item list--item-examples">
+                  North Phoenix Recycled Water Master Plan, Phoenix, Arizona
+                </li>
+                <li class="list-item list--item-examples">
+                  Loop 303 Area Drainage Master Plan, Flood Control District of
+                  Maricopa County, Arizona
+                </li>
+                <li class="list-item list--item-examples">
+                  Peabody Coal Mine, Water System Analysis and Design, Arizona
+                </li>
+                <li class="list-item list--item-examples">
+                  Luke Air Force Base, Water Quality Improvements, Arizona
+                </li>
+                <li class="list-item list--item-examples">Redlands Mesa Development, Grand Junction, Colorado</li>
+                <li class="list-item list--item-examples">
+                  Santan Freeway Loop 202 Kyrene Road to McClintock Drive, Mesa,
+                  Arizona
+                </li class="list-item list--item-examples">
+                <li class="list-item list--item-examples">Summerhill Subdivision, Grand Junction, Colorado</li>
+                <li class="list-item list--item-examples">Mountain Vista Subdivision, Grand Junction, Colorado</li>
+                <li class="list-item list--item-examples">Kokopelli Commercial Park, Grand Junction, Colorado</li>
+                <li class="list-item list--item-examples">
+                  D & 31.01 Road Bridge Replacement, Grand Junction, Colorado
+                </li>
+                <li class="list-item list--item-examples">Desert Hills Subdivision, Grand Junction, Colorado</li>
+              </ul>
+            </div>
