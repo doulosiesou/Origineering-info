@@ -13,6 +13,21 @@ const overlay = document.querySelector(".overlay");
 const btnCloseModal = document.querySelector(".btn--close-modal");
 const btnsOpenModal = document.querySelectorAll(".btn--show-modal");
 
+const header = document.querySelector(".container--header-sticky");
+const windowInnerWidth = window.innerWidth;
+console.log(windowInnerWidth);
+
+function reportWindowSize() {
+  console.log(window.innerWidth);
+}
+
+// function stickyHeaderWidth() {
+//   header.style.width = `${window.onresize / windowInnerWidth}%`;
+// }
+
+window.onresize = reportWindowSize;
+// window.onresize = stickyHeaderWidth;
+
 ///////////////////////////////////////
 // Modal window
 
@@ -78,41 +93,6 @@ eduImgTOP.addEventListener("mouseout", function () {
   liTOP.forEach(function (listItem) {
     listItem.classList.remove("edu--list-item-hover");
   });
-});
-
-///////////////////////////////////////
-// Move cat
-/* Move function from 
-https://medium.com/@theredwillows/moving-an-element-with-javascript-part-1-765c6a083d45 */
-
-function move(element, direction, distance = 20, duration = 1000) {
-  var topOrLeft = direction == "left" || direction == "right" ? "left" : "top";
-  var isNegated = direction == "up" || direction == "left";
-  if (isNegated) {
-    distance *= -1;
-  }
-  var elStyle = window.getComputedStyle(element);
-  var value = elStyle.getPropertyValue(topOrLeft).replace("px", "");
-  var destination = Number(value) + distance;
-  var frameDistance = distance / (duration / 10);
-  function moveAFrame() {
-    elStyle = window.getComputedStyle(element);
-    value = elStyle.getPropertyValue(topOrLeft).replace("px", "");
-    var newLocation = Number(value) + frameDistance;
-    var beyondDestination =
-      (!isNegated && newLocation >= destination) ||
-      (isNegated && newLocation <= destination);
-    if (beyondDestination) {
-      element.style[topOrLeft] = destination + "px";
-      clearInterval(movingFrames);
-    } else {
-      element.style[topOrLeft] = newLocation + "px";
-    }
-  }
-  var movingFrames = setInterval(moveAFrame, 10);
-}
-cat.addEventListener("mouseover", function () {
-  move(cat, "right", 1600, 1000);
 });
 
 ///////////////////////////////////////
@@ -205,4 +185,4 @@ slider();
 
 const footerText = document.querySelector(".para--footer-text");
 const date = new Date();
-footerText.innerHTML = `Created by Origineering ${date}`;
+footerText.innerHTML = `<p>Created by Origineering ${date}</p>`;
