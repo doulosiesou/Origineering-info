@@ -8,8 +8,28 @@
 @media (max-width: 82em) {
   /* 82em x 16px/em = 1312px */
 
+  * {
+    background-color: rgb(240, 240, 240);
+  }
+
   .hero-description {
     font-size: 1.8rem;
+  }
+
+  .header {
+    background-color: rgb(240, 240, 240);
+  }
+
+  .container--header-sticky {
+    background-color: rgb(240, 240, 240);
+  }
+
+  .section-hero {
+    background-color: rgb(240, 240, 240);
+  }
+
+  .section-examples {
+    background-color: rgb(240, 240, 240);
   }
 
   .btn,

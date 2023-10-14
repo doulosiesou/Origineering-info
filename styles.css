@@ -100,7 +100,7 @@ body {
 /* STICKY HEADER */
 
 .container--header-sticky {
-  /* max-width: 150rem; */
+  max-width: 150rem;
   padding: 2.4rem 4.8rem;
   display: flex;
   flex-direction: row;
