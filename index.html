@@ -439,14 +439,15 @@
     <div class="modal hidden">
       <button class="btn--close-modal">&times;</button>
       <h2 class="modal__header">Get Technical Help Today!</h2>
-      <form name="contact" class="modal__form" netlify>
-        <label>First and Last Name</label>
-        <input type="text" name="name" />
-        <label>Company</label>
-        <input type="text" name="company" />
-        <label>Email Address</label>
-        <input type="email" name="email" />
-        <button class="btn btn--submit_btn">Submit</button>
+      <form class="modal__form" name="contact" netlify>
+        <label for="name">First and Last Name</label>
+        <input id="name" type="text" name="name" required />
+        <label for="company">Company</label>
+        <input id="company" type="text" name="company" />
+        <label for="email">Email Address</label>
+        <input id="email" type="email" name="email" required />
+        <!-- <button class="btn btn--submit_btn">Submit</button> -->
+        <input type="submit" class="btn btn--submit_btn"></input>
       </form>
     </div>
     <div class="overlay hidden"></div>
